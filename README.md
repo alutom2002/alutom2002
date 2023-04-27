@@ -1,4 +1,4 @@
-<h1><strong>Hi there, I'm GOPORO</strong> 👋</a></h1>
+<h1><strong>Hi there, I'm Jinun20th</strong> 👋</a></h1>
 👀 I’m interested in web developer</br>
 🌱 I’m currently learning JS</br>
 🚀🚀🚀
