@@ -3,16 +3,13 @@
 ### **About Me 🙋‍**
   - 👯 Looking to collaborate on **OpenSource Projects**.
   - 📫 How to reach me **20521923@gm.uit.edu.vn**.
-
-  -⚡ About Myself:
     - **Adventurous soul ✨**
     - **Bookworm and manga enthusiast 📚**
-    - **Movie aficionado and anime lover 🎬**
     - **Gym enthusiast, staying fit is a priority 💪**
-    - **Pet lover, always surrounded by furry friends 🐾**
     - **Travel addict, exploring new places is a passion ✈️**
     - **Gamer at heart, always up for a gaming session 🎮**
-🚀🚀🚀
+    
+**🚀🚀🚀**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
@@ -31,6 +28,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%234F5B93.svg?style=flat-square&logo=php&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](#)
 ![Solidity](https://img.shields.io/badge/Solidity-%23758B20.svg?style=flat-square&logo=solidity&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-144C9B.svg?style=flat-square&logo=jquery&logoColor=white)
@@ -48,8 +46,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uchiha-suraj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&line_height=35" />
+    <a href="https://github.com/alutom2002/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jinun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alutom2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&line_height=35" />
     </a>
 </p>
 
@@ -62,5 +60,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alutom2002&show_icons=true&theme=react&icon_color=ffb300" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alutom2002&layout=compact&theme=react&langs_count=6&" height="165">
 </p>
+
+### **Connect with me ⚡**
+<a href="https://www.linkedin.com/in/c%C3%B4ng-th%C3%A0nh-phan-05a7b7237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/ctp.congthanhphan/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
