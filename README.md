@@ -47,8 +47,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/alutom2002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jinun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alutom2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&line_height=35" />
+    <a href="https://github.com/jinun20th/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jinun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jinun20th&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&line_height=35" />
     </a>
 </p>
 
@@ -58,8 +58,8 @@
 ### **Some of my Github Stats 🎓**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alutom2002&show_icons=true&theme=react&icon_color=ffb300" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alutom2002&layout=compact&theme=react&langs_count=6&" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=jinun20th&show_icons=true&theme=react&icon_color=ffb300" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinun20th&layout=compact&theme=react&langs_count=6&" height="165">
 </p>
 
 ### **Connect with me ⚡**
