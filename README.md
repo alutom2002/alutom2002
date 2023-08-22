@@ -66,4 +66,4 @@
 <a href="https://www.linkedin.com/in/c%C3%B4ng-th%C3%A0nh-phan-05a7b7237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/ctp.congthanhphan/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jinun20th/jinun20th/blob/output/github-contribution-grid-snake.gif)
