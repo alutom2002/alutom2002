@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer%20from%20UIT;3rd%20years%20student%20at%20UIT;Being%20passionate%20and%20dedicated&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer%20from%20UIT;4th%20years%20student%20at%20UIT;Being%20passionate%20and%20dedicated&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -47,8 +47,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/jinun20th/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jinun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jinun20th&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&line_height=35" />
+    <a href="https://github.com/thanhphan20/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThanhPhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhphan20&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&line_height=35" />
     </a>
 </p>
 
